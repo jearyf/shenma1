@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/huaxingVideo/V00023/enviromentPre/index",
+    "pages/huaxingVideo/V00023/willingnessVeriffication/index",
+    "verify_mpsdk/index/index",
+    "video/components/dcfs-session/dcfs-session",
+    "video/components/dcfs-empty/dcfs-empty"
+  
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "视频银行",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
